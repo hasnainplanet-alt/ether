@@ -1,2 +1,3 @@
 # ether
-qauntuma and computation
+qauntum and computation
+AUTHOR hasnain
